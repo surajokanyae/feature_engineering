@@ -1,8 +1,3 @@
-### Project Submission: README.md
-
-This section outlines the content for the `README.md` file that would accompany this Jupyter Notebook in a GitHub repository. It covers the dataset, prediction goal, and the feature engineering workflow.
-
-```markdown
 # NBA Player Longevity Prediction: Feature Engineering
 
 ## Project Overview
@@ -27,5 +22,5 @@ The following steps have been undertaken to prepare the dataset for predictive m
 
 5.  **Handling Missing Values**: The dataset was inspected for null values. It was confirmed that there are no missing values in the performance columns, ensuring the dataset's integrity and readiness for machine learning algorithms.
 
-This systematic approach to feature engineering aims to produce a clean, robust, and predictive dataset for forecasting NBA player longevity.
+This systematic approach to feature engineering aims to produce a clean, robust, and predictive dataset for forecasting NBA player. longevity.
 ```
